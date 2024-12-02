@@ -1,9 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "books": [
+    {
+      "id": "1733107486722",
+      "title": "hello",
+      "author": "worls",
+      "publishedYear": 2023,
+      "genre": "Drama"
+    },
+    {
+      "id": "1733107495584",
+      "title": "hello",
+      "author": "",
+      "publishedYear": 2023,
+      "genre": "Drama"
+    },
+    {
+      "id": "1733107501432",
+      "title": "",
+      "author": "",
+      "publishedYear": 2023,
+      "genre": "Fantasy"
+    }
+  ]
 }
